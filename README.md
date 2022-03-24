@@ -15,9 +15,9 @@ Nun kann man beginnen, einen Buchstaben zu raten, in dem man den gewünschten Bu
 * Ist der Buchstabe richtig, wird der entsprechende Unterstrich mit dem Buchstaben ersetzt.
 * Ist der Buchstabe falsch, wird der Buchstabe an die Misses angehängt und die erste Linie des Galgenmännchens wird gezeichnet.
 
-Diese Schritte werden so lange wiederholt, bis man entweder das Wort erraten hat oder das Galgenmännchen vollständig gezeichnet wurde.\
+Diese Schritte werden so lange wiederholt, bis man entweder das Wort erraten hat oder das Galgenmännchen vollständig gezeichnet wurde.
 
-Sind alle Wörter einmal vorgekommen, gibt es am Ende eine kleine Zusammenfassung, wie viele Wörter man erraten hat.\
+Sind alle Wörter einmal vorgekommen, gibt es am Ende eine kleine Zusammenfassung, wie viele Wörter man erraten hat.
 
 Will man andere Wörter verwenden, kann man diese in die beiliegende words.txt-Datei anhängen und/oder ersetzen.
 
@@ -27,10 +27,14 @@ Will man andere Wörter verwenden, kann man diese in die beiliegende words.txt-D
 Verbesserungvorschläge sind erwünscht.\
 Gerne nehme ich mir für eine Absprache zur Zusammenarbeit Zeit.\
 
-Lukas Grafoner
-
+>**Lukas Grafoner**\
+>s50706@edu.campus02.at\
+>[GitHub](https://github.com/lukasgrafoner/bsd21_grafoner_lukas)\
+> \
+>[Campus02](https://www.campus02.at)
 ---
 
 ---
 Links:\
-[Exercise 1](/exercise1.md)
+[Exercise 1](/exercise1.md)\
+[Exercise 2](/exercise2.md)

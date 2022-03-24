@@ -17,4 +17,4 @@ Damals, vor ca. 11 Jahren habe ich mein erstes Video von [Kobe Bryant](https://d
 
 ---
 Links:\
-[README (Start)](/README-Grafoner-Lukas.md)
+[README (Start)](/README.md)
