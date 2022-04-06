@@ -52,8 +52,10 @@ Danach wurde folgender Block in die pom.xml eingefügt:\
 ```
 Nun wurde das Projekt mithilfe des Befehls `mvn compile` in der Konsole (direkt in IntellJ) gebuildet.
 
+Danach wurden die Dateien kompiliert, und ausgeführt.\
+![Output](output.png)
 
-
+Zum Schluss wurde alles nochmals versionisiert.
 
 ---
 
