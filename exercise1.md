@@ -1,7 +1,7 @@
 # Exercise 1
 
 ## Das bin ich
-![Lukas Grafoner](lukas.jpg)
+![Lukas Grafoner](resources/images/lukas.jpg)
 
 ## Mein Hobby
 Seit über 11 Jahren spiele ich Basketball im Verein.\

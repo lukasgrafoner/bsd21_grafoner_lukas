@@ -33,7 +33,7 @@ Main ruft alle Methoden aus und gibt die Ergebnisse aus.
 
 Nach dem ersten Ausführen des Programmes wurde ein neuer Ordner erstellt: target\
 Dieser Ordner enthält die Package-Struktur vom Java-Projekt (at.campus02...)\
-![Odner-Struktur](target_ordner.png)
+![Odner-Struktur](resources/images/target_ordner.png)
 
 Danach wurde folgender Block in die pom.xml eingefügt:\
 ```
@@ -53,7 +53,7 @@ Danach wurde folgender Block in die pom.xml eingefügt:\
 Nun wurde das Projekt mithilfe des Befehls `mvn compile` in der Konsole (direkt in IntellJ) gebuildet.
 
 Danach wurden die Dateien kompiliert, und ausgeführt.\
-![Output](output.png)
+![Output](resources/images/output.png)
 
 Zum Schluss wurde alles nochmals versionisiert.
 
