@@ -37,5 +37,11 @@ Erwartet wird eine `ArithmeticException`.
 ![Output](resources/images/ex4_1.png)
 
 ---
+## Fakultät
+Diese Tests sind nicht erfolgreich, da die Methode zu diesem Zeitpunkt noch nicht implementiert wurde.
+
+![Output](resources/images/ex4_2.png)
+
+---
 Links:\
 [README (Start)](/README.md)

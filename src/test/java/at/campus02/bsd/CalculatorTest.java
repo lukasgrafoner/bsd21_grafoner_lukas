@@ -96,4 +96,25 @@ public class CalculatorTest {
 
         Assertions.assertEquals(expectedResult, result);
     }
+
+    @Test
+    public void testFaculty_3(){
+        //3! = 1 * 2 * 3 = 6
+        int result = calc.calcFaculty(3);
+        Assertions.assertEquals(6, result);
+    }
+
+    @Test
+    public void testFaculty_4(){
+        //4! = 1 * 2 * 3 * 4 = 24
+        int result = calc.calcFaculty(4);
+        Assertions.assertEquals(24, result);
+    }
+
+    @Test
+    public void testFaculty_negative5(){
+        //-5! = not defined --> should return 0
+        int result = calc.calcFaculty(-5);
+        Assertions.assertEquals(0, result);
+    }
 }
