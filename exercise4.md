@@ -34,13 +34,13 @@ Erwartet wird eine `ArithmeticException`.
 ---
 ## Testcoverage
 
-![Output](resources/images/ex4_1.png)
+![Testcoverage](resources/images/ex4_1.png)
 
 ---
 ## Fakultät
 Diese Tests sind nicht erfolgreich, da die Methode zu diesem Zeitpunkt noch nicht implementiert wurde.
 
-![Output](resources/images/ex4_2.png)
+![Fakultät](resources/images/ex4_2.PNG)
 
 ---
 Links:\
