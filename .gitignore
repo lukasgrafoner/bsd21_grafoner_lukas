@@ -2,4 +2,4 @@
 *.pdf
 .idea
 *.log
-target
+target/
