@@ -5,12 +5,19 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Class to test the Calculation implementation on it's methods: add, minus, divide, multiply, faculty
+ *
  * @author Lukas Grafoner
+ * @version 1.1
  */
 public class Main {
 
     public static Logger logger = LogManager.getLogger();
 
+    /**
+     * Main-method to test the methods of Calculator.java
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         try{
             Calculator calc = new Calculator();
