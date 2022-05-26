@@ -3,6 +3,10 @@ package at.campus02.bsd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Class to test the Calculation implementation on it's methods: add, minus, divide, multiply, faculty
+ * @author Lukas Grafoner
+ */
 public class Main {
 
     public static Logger logger = LogManager.getLogger();
